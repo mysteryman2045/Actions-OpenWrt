@@ -22,4 +22,4 @@ echo 'src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-inf
 #echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 
 git clone https://github.com/kongfl888/luci-app-adguardhome adguardhome
-cp -rf adguardhome/ openwrt/package/lean
+cp -rf adguardhome/ package/lean
