@@ -26,6 +26,6 @@ echo 'src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-inf
 git clone https://github.com/kongfl888/luci-app-adguardhome adguardhome
 cp -rf adguardhome/ package/lean
 
-git clone https://github.com/sirpdboy/luci-app-netdata
-rm -rf package/lean/luci-app-netdata/
-cp -rf luci-app-netdata/ package/lean/
+#git clone https://github.com/sirpdboy/luci-app-netdata
+#rm -rf package/lean/luci-app-netdata/
+#cp -rf luci-app-netdata/ package/lean/
